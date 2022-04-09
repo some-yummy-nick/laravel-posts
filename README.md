@@ -7,7 +7,7 @@ docker-compose up
 
 # Для установки пакетов
 ```
-docker-compose run --rm composer
+docker-compose run --rm composer install
 ```
 
 # Для запуска artisan
